@@ -1,0 +1,5 @@
+venv
+*.whl
+*.geojson
+data/
+.idea/
